@@ -1,3 +1,5 @@
+package Abstratas;
+
 public class PessoaF extends Pessoas{
 
     private String cpf;

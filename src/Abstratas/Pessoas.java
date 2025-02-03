@@ -1,3 +1,5 @@
+package Abstratas;
+
 public abstract class Pessoas {
 
     private  String nome;

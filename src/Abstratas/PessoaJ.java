@@ -1,3 +1,5 @@
+package Abstratas;
+
 public class PessoaJ extends Pessoas{
 
     private String cnpj;
